@@ -1,0 +1,23 @@
+.align-right{
+    text-align: right;
+}
+
+.align-center{
+    text-align: center;
+}
+
+.align-left{
+    text-align: left;
+}
+
+.button-link{
+  border:none;
+  outline:none;
+  background:none;
+  cursor:pointer;
+  color:#17599C;
+  padding:0;
+  text-decoration:underline;
+  font-family:inherit;
+  font-size:inherit;
+}
